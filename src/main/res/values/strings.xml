@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Leagueresult</string>
+    <string name="ftb">FoulTeamB</string>
+    <string name="sb">Score B</string>
+    <string name="sa">Score A</string>
+    <string name="fta">FoulTeam A</string>
+    <string name="ta">Team A</string>
+    <string name="zero">0</string>
+    <string name="tb">Team B</string>
+    <string name="rs">Reset</string>
+    <string name="fa">Foul A</string>
+    <string name="fb">foul B</string>
+
+</resources>
